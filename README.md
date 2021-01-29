@@ -1,16 +1,14 @@
-# Predicting-Employee-Churn-Machine-Learning
-
 # Predicting Employee Churn Using Machine Learning
 
 **What is employee Turnover/churn?** </br>
-**Answer**: Based on given employee characterstics predicting how many employees will leave the oragnization after certain period of time.
+**Answer**: Based on given employee characterstics predicting that an employee will leave the oragnization after certain period of time.
 
 
-<p>The main objective of the project is to forecast employee turnover or churn using different machine learning classification models like Logistic Regression, Random Forest, SVM (Support Vector Machine), and Gradient Boosting Classifier. Also I have applied fully connceted nueral network model to see how it perform compare to supervised calssification models. The idea behind applying different models for solving the problem is to find which model perform better and then taking the best model for applying Cross Validation to get best accuracy.</p> 
+<p>The main objective of this project is to forecast employee turnover or churn using different machine learning classification models like Logistic Regression, Random Forest, SVM (Support Vector Machine), and Gradient Boosting Classifier. Also we have applied fully connceted nueral network model to see how it perform compare to supervised machine learning calssification models. The idea behind applying different models for solving the problem is to find which model perform better and then considering the best model for applying Cross Validation to get best accuracy.</p> 
 
 
 
-### Things Which I have perfomed in whole Python Notebook are as below:
+### Things we have perfomed in our Python Notebook or we say say our data pipeline as follows:
 
 1. Basic Exploration Of Data
 2. Data Visualization
@@ -22,7 +20,7 @@
 8. Ploting ROC Curve
 9. Feature Importance
 
-## <p>For performing Employee turnover using machine learning I have used dataset from kaggle. Below is the brief description about data.</p>
+## <p>For performing Employee turnover using machine learning we have used dataset from kaggle. Below is the brief description about data.</p>
 
 Link to dataset: https://www.kaggle.com/giripujar/hr-analytics
 
